@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://readmestats.999857.xyz/api?username=maxvrt)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://readmestats.999857.xyz/api?username=maxvrt&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **maxvrt/maxvrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
