@@ -3,7 +3,7 @@
 [![Anurag's GitHub stats](https://readmestats.999857.xyz/api?username=maxvrt&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maxvrt)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maxvrt&theme=tokyonight)](https://git.io/streak-stats)
 <!--
 **maxvrt/maxvrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
