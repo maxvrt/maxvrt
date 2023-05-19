@@ -1,4 +1,10 @@
-### Hi there 👋
+### Привет 🙋‍♂️
+
+- 👨‍💻 Я рассматриваю программирование как увлекательное занятие
+- 🚀 Которое может бросить вызов
+- 🤹 Поэтому программисты редко скучают 
+- 😴 Бывет иногда, но это тоже вызов 
+- 👍 В общем, мне просто нравится программировать 
 
 [![Anurag's GitHub stats](https://readmestats.999857.xyz/api?username=maxvrt&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
